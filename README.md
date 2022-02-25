@@ -1,4 +1,10 @@
 # E-commerce Back End Starter CodeGIVEN a functional Express.js API
+
+
+# ScreenCastify Video
+https://drive.google.com/file/d/18rxJcVhRuDXneZYb2BYMZuCLjLhWlkvs/view
+
+
 # User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
