@@ -13,7 +13,7 @@ router.get("/", async (req, res) => {
     include: [
       {
         model: Product,
-        attributes: ["product_name"],
+        attributes: ["id", "price", "product_name", "stock", "category_id"],
       },
     ],
   })
@@ -33,7 +33,7 @@ router.get('/:id', (req, res) => {
     },
     include: {
       model: Product,
-      attributes: ["category_id"],
+      attributes: ["id", "price", "product_name", "stock", "category_id"],
     },
   })
   // find one category by its `id` value
