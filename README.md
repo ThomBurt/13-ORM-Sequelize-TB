@@ -1,15 +1,13 @@
 # E-commerce Back End Starter CodeGIVEN a functional Express.js API
-
-
+# User Story
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 # Dependencies
 mysql2
 sequelize
 express
 dot env
-
-
-
-
 # Acceptance Criteria
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 
